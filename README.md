@@ -1,4 +1,4 @@
-# pytest-md
+# pytest-markdown
 
 Plugin for generating Markdown reports for [pytest] results 📝
 
